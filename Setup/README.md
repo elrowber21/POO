@@ -22,7 +22,7 @@ El menú no debera ser tan complejo, pero es importante tener un orden de dónde
 Aquí ya deberás tener una cuenta en GitHub con la que abres VSC.
 Para escargar entra a este
 [link](https://git-scm.com/downloads)
-Aquí repetimos el mismo mecanismo; entrar, seleccionar tu sistema eligiendo el apropiado y más conveniente en este panel
+Aquí repetimos el mismo mecanismo; entrar, seleccionar tu sistema eligiendo el apropiado y más conveniente en este panel.
 [otro_ejemplo](./img/g.PNG)
 Ahí eliges tu sistema, como Windows, Linux o IOS, y acto seguido, lo descargas.
 Abres, de nuevo, el archivo con tu instalador y empiezas a dar aceptar a los términos. Sigues eligiendo las ubicaciones de las carpetas y "Presto", instalaste tu tercer herramienta.
