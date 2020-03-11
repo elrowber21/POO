@@ -9,4 +9,4 @@ Practica 2
 
 Practica 3
 
-[Actividad_3-Lista de peliculas](./Lista/Program.cs/)
+[Actividad 3-Lista de peliculas](./Lista/Program.cs/)
